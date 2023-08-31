@@ -1,0 +1,8 @@
+***Muy importante***
+
+Tener las librerias de Python instaladas como:
+-pandas
+-numpy
+-seaborn
+-matplotlib
+-sklearn
